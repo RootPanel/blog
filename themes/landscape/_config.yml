@@ -1,7 +1,12 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  主页: /
+  关于本站: /about
+  Github: https://github.com/jysperm/RootPanel
+  jp1: http://jp1.rpvhost.net
+  us1: http://us1.rpvhost.net
+  gs1: http://greenshadow.net
+
 rss: /atom.xml
 
 # Content
@@ -11,14 +16,11 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- category
-- tag
-- tagcloud
-- archive
-- recent_posts
+  - tag
+  - archive
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-49193300-2
 favicon: /favicon.png
 twitter:
 google_plus:

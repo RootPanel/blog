@@ -5,7 +5,7 @@ title: RP 主机博客
 subtitle: blog.rpvhost.net
 description:
 author: RP 主机
-email:
+email: admins@rpvhost.net
 language: zh-CN
 
 # URL
@@ -57,11 +57,11 @@ date_format: MMM D YYYY
 time_format: H:mm:ss
 
 # Pagination
-per_page: 10
+per_page: 4
 pagination_dir: page
 
 # Disqus
-disqus_shortname:
+disqus_shortname: rpvhost
 
 # Extensions
 theme: landscape
@@ -69,4 +69,7 @@ exclude_generator:
 
 # Deployment
 deploy:
-  type:
+  type: rsync
+  host: blog.rpvhost.net
+  user: rpvhost
+  root: /home/rpvhost/blog-public
