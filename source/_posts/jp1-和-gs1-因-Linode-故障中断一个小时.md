@@ -1,4 +1,4 @@
-title: jp1 和 gs1 因 Linode 故障终端一个小时
+title: jp1 和 gs1 因 Linode 故障中断一个小时
 tags:
   - 故障信息
 date: 2014-10-11 13:37:08
