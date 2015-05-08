@@ -12,15 +12,17 @@ language: zh-CN
 url: http://blog.rpvhost.net
 root: /
 permalink: :year/:month/:day/:title/
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
 permalink_defaults:
 
 # Directory
 source_dir: source
 public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
 
 # Writing
 new_post_name: :title.md
@@ -31,6 +33,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: false
 relative_link: false
+future: true
 highlight:
   enable: true
   line_number: true
@@ -41,17 +44,6 @@ default_category: uncategorized
 category_map:
 tag_map:
 
-# Archives
-archive: 2
-category: 2
-tag: 2
-
-# Server
-port: 4000
-server_ip: localhost
-logger: false
-logger_format: dev
-
 # Date / Time format
 date_format: MMM D YYYY
 time_format: H:mm:ss
@@ -60,12 +52,8 @@ time_format: H:mm:ss
 per_page: 4
 pagination_dir: page
 
-# Disqus
-disqus_shortname: rpvhost
-
 # Extensions
 theme: landscape
-exclude_generator:
 
 # Deployment
 deploy:
