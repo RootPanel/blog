@@ -61,3 +61,8 @@ deploy:
   host: blog.rpvhost.net
   user: rpvhost
   root: /home/rpvhost/blog-public
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
