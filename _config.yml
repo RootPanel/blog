@@ -58,9 +58,9 @@ theme: landscape
 # Deployment
 deploy:
   type: rsync
-  host: blog.rpvhost.net
-  user: rpvhost
-  root: /home/rpvhost/blog-public
+  host: spawn.rpvhost.net
+  user: docker
+  root: /home/docker/sites/rpvhost-blog
 
 feed:
   type: atom
