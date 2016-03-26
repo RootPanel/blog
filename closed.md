@@ -28,7 +28,7 @@
 
 ## 同类服务推荐
 
-* [LeanCloud](https://leancloud.cn) 提供结构化数据存储服务来代替传统后端，亦可运行普通的 Node.js 和 Python 程序
+* [LeanCloud](https://leancloud.cn/?source=45Y9GRFP) 提供结构化数据存储服务来代替传统后端，亦可运行普通的 Node.js 和 Python 程序
 * [Linode](https://www.linode.com/?r=a196912d910d9eefa806a2f2a00e5991811f85ef) 是传统 Linux VPS 服务商，在亚洲、欧洲、美洲有多处机房
 * [DigitalOcean](https://www.digitalocean.com/?refcode=3adfb872a7c3) 是一家性价比很高的 VPS 服务商, 亦在世界各地有多个机房
 * [青云](https://www.qingcloud.com) 提供服务器、储存、数据库等技术设施，支持灵活的组合和扩容，亦有香港节点
