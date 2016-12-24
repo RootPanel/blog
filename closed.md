@@ -31,11 +31,10 @@
 * [LeanCloud](https://leancloud.cn/?source=45Y9GRFP) 提供结构化数据存储服务来代替传统后端，亦可运行普通的 Node.js 和 Python 程序
 * [Linode](https://www.linode.com/?r=a196912d910d9eefa806a2f2a00e5991811f85ef) 是传统 Linux VPS 服务商，在亚洲、欧洲、美洲有多处机房
 * [DigitalOcean](https://www.digitalocean.com/?refcode=3adfb872a7c3) 是一家性价比很高的 VPS 服务商, 亦在世界各地有多个机房
+* [Vultr](http://www.vultr.com/?ref=7017760-3B) 另一台 VPS 提供商
 * [青云](https://www.qingcloud.com) 提供服务器、储存、数据库等基础设施，支持灵活的组合和扩容，亦有香港节点
 * [七牛](https://portal.qiniu.com/signup?code=3le7dofycwdw2) 提供文件和静态资源托管和加速服务
-* [DaoCloud](https://account.daocloud.io/signup?invite_code=7c730iszkh25ygaknsd8) 是一个基于 Docker 的持续集成和应用发布平台
 * [Heroku](http://heroku.com) 是一家老牌的 PaaS 服务商，支持众多编程语言
-* [Laravel Forge](https://forge.laravel.com) 是 Laravel 官方提供的 PHP 程序的部署服务
 
 ## 资料存档
 
